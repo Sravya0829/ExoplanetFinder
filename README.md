@@ -25,4 +25,4 @@ Analyzed using confusion matrices
 
 Creared MLP nueral network model.
 
-Created with InspiritAI.
+Created along with InspiritAI.
