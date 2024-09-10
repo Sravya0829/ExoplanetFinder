@@ -24,3 +24,5 @@ test accuracy = 0.8824
 Analyzed using confusion matrices
 
 Creared MLP nueral network model.
+
+Created with InspiritAI.
